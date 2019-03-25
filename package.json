@@ -1,0 +1,14 @@
+{
+  "name": "acts2",
+  "version": "1.0.0",
+  "description": "Registra a los estudiantes y muestra el promedio de los que ganaron por consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index inscribir -n XXXX -d XXXX -m 000 -i 000 -d 000"
+  },
+  "author": "EdwiinRtz edwiinrtz@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
